@@ -7,8 +7,8 @@ import os
 use_url_file = True  # if False then program will extract urls from website [took me 1 hour]
 # else it will use my url file
 
-user_id = "shashwatbansal247@gmail.com"
-password = "Shashu@247"
+user_id = ""
+password = ""
 time_to_wait = 1
 
 
